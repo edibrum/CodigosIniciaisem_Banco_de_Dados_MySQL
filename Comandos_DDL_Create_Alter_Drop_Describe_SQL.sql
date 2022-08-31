@@ -1,4 +1,7 @@
--- Lista 002
+-- Lista de Exercícios:
+-- Praticando os Comandos DDL (Data Definition Language)
+-- CREATE / ALTER / DROP / TRUNCATE(não vamos usar) / CHECK / CHANGE(bom evitar) / DESCRIBE
+
 
 -- 1) Criar o Banco de Dados lista 002:
 CREATE DATABASE lista002;
